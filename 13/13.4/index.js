@@ -8,5 +8,3 @@ export default (numbers, stopNum) => {
   return new Set(differenceNum);
 };
 // END
-
-const result = words.filter(word => !stopWords.has(word));
